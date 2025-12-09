@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "emby.cn2gias.uk",
+        "emby01.cn2gias.uk",
+        "lite.cn2gias.uk",
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".emby.cn2gias.uk"
+        ".emby01.cn2gias.uk"
+        ".lite.cn2gias.uk"
+      ]
+    }
+  ],
+  "version": 1
+}
